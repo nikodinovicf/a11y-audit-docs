@@ -26,6 +26,6 @@ The full feature guide is the extension's README, shown on the Marketplace page.
 
 ## License
 
-A11y Audit 0.7.0 and later, and this documentation, are licensed under the [Business Source License 1.1](LICENSE). Production use is free for individuals and organizations with up to 5 employees; larger organizations need a commercial license. Each version becomes MIT on its Change Date. Version 0.6.1 and earlier were released under the MIT License and stay MIT.
+A11y Audit 0.7.0 and later, and this documentation, are licensed under the [Business Source License 1.1](LICENSE). Production use is free for individuals and organizations with up to 5 employees; larger organizations need a commercial license, which they can request by [opening an issue](https://github.com/nikodinovicf/a11y-audit-docs/issues/new?title=Commercial%20license%20request). Each version becomes MIT on its Change Date. Version 0.6.1 and earlier were released under the MIT License and stay MIT.
 
 VPAT® is a registered service mark of the Information Technology Industry Council (ITI).
